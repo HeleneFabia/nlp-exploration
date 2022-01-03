@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="180" src="https://github.com/HeleneFabia/nlp-exploration/blob/main/images/nlp.png">
+  <img width="600" height="200" src="https://github.com/HeleneFabia/nlp-exploration/blob/main/images/nlp.png">
 </p>
 
 I've always been fascinated by language. I studied language at university (translation and language teaching) and love to practice my foreign language skills when aborad. My curiosity for languages is also what brought me into the realms of computer languages (and hence, to my current job as an ML engineer). 
