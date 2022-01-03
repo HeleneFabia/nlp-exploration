@@ -10,7 +10,7 @@ I currently work in the field of Computer Vision - however, due to my language a
 
 [See my notebook here](https://github.com/HeleneFabia/nlp-exploration/blob/main/notebooks/nlp_with_huggingface.ipynb)
 
-What I learned: 
+**What I learned:**
 - pretraining and fine-tuning a language model with HuggingFace's Trainer API as well as with a custom trainer loop) (e.g. a translation model)
 - evaluating a language model (e.g. using the BLEU score to evaluate a translation model)
 - basic buildings blocks of transformer models
