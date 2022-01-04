@@ -4,7 +4,7 @@
 
 I've always been fascinated by language. I studied languages at university and love to practice my foreign language skills when aborad. This curiosity of mine is also what brought me into the realms of computer languages (and hence, to my current job as an ML engineer). 
 
-I currently work in the field of Computer Vision - however, due to my language affinity, I have also been always drawn to NLP. Since I spent most of my time last year working with images and CNNs, I wanted to dedicate the beginning of this year to re-freshing my NLP knowledge and dabbling into HuggingFace, SpaCy and NLTK. 
+I currently work in the field of Computer Vision - however, due to my language affinity, I have also been always drawn to NLP. Since I spent most of my time last year working with images and CNNs, I wanted to dedicate the beginning of this year to re-freshing my NLP knowledge and dabbling with HuggingFace, SpaCy and NLTK. 
 
 ## HuggingFace
 
