@@ -43,5 +43,11 @@ I currently work in the field of Computer Vision - however, due to my language a
 [See my notebook here](https://github.com/HeleneFabia/nlp-exploration/blob/main/notebooks/nlp_with_nltk.ipynb)
 
 **What I learned:**
-- ...
+- tokenizing
+- filtering stop words
+- stemming
+- tagging Parts of Speech
+- lemmatizing
+- chunking
+- 
 
