@@ -26,3 +26,12 @@ I currently work in the field of Computer Vision - however, due to my language a
 - types of model inputs (input IDs, token type IDs, attention masks, word IDs)
 - running inference on HuggingFace's OTB models
 - using HuggingFace's datasets library
+
+# SpaCy
+
+[See my notebook here](https://github.com/HeleneFabia/nlp-exploration/blob/main/notebooks/nlp_with_spacy.ipynb)
+
+**What I learned:**
+- pattern matching
+- using spacy's trained pipeline packages
+- 
