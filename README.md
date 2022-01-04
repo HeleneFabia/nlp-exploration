@@ -4,7 +4,7 @@
 
 I've always been fascinated by language. I studied languages at university and love to practice my foreign language skills when aborad. This curiosity of mine is also what brought me into the realms of computer languages (and hence, to my current job as an ML engineer). 
 
-I currently work in the field of Computer Vision - however, due to my language affinity, I have also been always drawn to NLP. Since I spent most of my time last year working with images and CNNs, I wanted to dedicate the bgeinning of this year to re-freshing my NLP knowledge and dabbling into HuggingFace, SpaCy and nltk. 
+I currently work in the field of Computer Vision - however, due to my language affinity, I have also been always drawn to NLP. Since I spent most of my time last year working with images and CNNs, I wanted to dedicate the bgeinning of this year to re-freshing my NLP knowledge and dabbling into HuggingFace, SpaCy and NLTK. 
 
 ## HuggingFace
 
@@ -32,8 +32,16 @@ I currently work in the field of Computer Vision - however, due to my language a
 [See my notebook here](https://github.com/HeleneFabia/nlp-exploration/blob/main/notebooks/nlp_with_spacy.ipynb)
 
 **What I learned:**
-- pattern matching using spacy's Matcher and PhraseMatcher
-- using spacy's trained pipeline packages
-- accesing part-of-speech tags and dependency structures 
-- using vocabs, Docs and Spans
+- pattern matching using the Matcher and PhraseMatcher
+- working with trained pipelines
+- extracting part-of-speech tags, dependencies and named entities
+- using Vocab, Doc and Span and Lexeme
+- finding similarities using word vectors
+
+## NLTK
+
+[See my notebook here](https://github.com/HeleneFabia/nlp-exploration/blob/main/notebooks/nlp_with_nltk.ipynb)
+
+**What I learned:**
 - 
+
