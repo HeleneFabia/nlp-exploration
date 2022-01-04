@@ -27,11 +27,13 @@ I currently work in the field of Computer Vision - however, due to my language a
 - running inference on HuggingFace's OTB models
 - using HuggingFace's datasets library
 
-# SpaCy
+## SpaCy
 
 [See my notebook here](https://github.com/HeleneFabia/nlp-exploration/blob/main/notebooks/nlp_with_spacy.ipynb)
 
 **What I learned:**
-- pattern matching
+- pattern matching using spacy's Matcher and PhraseMatcher
 - using spacy's trained pipeline packages
+- accesing part-of-speech tags and dependency structures 
+- using vocabs, Docs and Spans
 - 
