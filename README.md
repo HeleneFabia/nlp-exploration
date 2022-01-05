@@ -49,5 +49,7 @@ I currently work in the field of Computer Vision - however, due to my language a
 - tagging Parts of Speech
 - lemmatizing
 - chunking
-- 
-
+- Named Entity Recognition
+- concordance
+- frequency distributions
+- collocations
